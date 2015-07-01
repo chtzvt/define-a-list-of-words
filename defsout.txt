@@ -1,0 +1,1166 @@
+ 
+ 
+
+apostrophe
+     n 1: address to an absent or imaginary person
+     2: the mark (') used to indicate the omission of one or more
+        letters from a printed word
+
+ 
+ 
+
+colloquialism
+     n : a colloquial expression; characteristic of spoken or written
+         communication that seeks to imitate informal speech
+
+ 
+ 
+
+connotation
+     n 1: what you must know in order to determine the reference of an
+          expression [syn: {intension}]
+     2: an idea that is implied or suggested
+
+ 
+ 
+
+denotation
+     n 1: the act of indicating or pointing out by name [syn: {indication}]
+     2: the most direct or specific meaning of a word or expression;
+        the class of objects that an expression refers to; "the
+        extension of `satellite of Mars' is the set containing
+        only Demos and Phobos" [syn: {reference}, {extension}]
+
+ 
+ 
+
+dialect
+     n : the usage or vocabulary that is characteristic of a specific
+         group of people; "the immigrants spoke an odd dialect of
+         English"; "he has a strong German accent" [syn: {idiom},
+         {accent}]
+
+ 
+ 
+
+invective
+     n : abusive or venomous language used to express blame or
+         censure or bitter deep-seated ill will [syn: {vituperation},
+          {vitriol}]
+
+ 
+ 
+
+jargon
+     n 1: a characteristic language of a particular group (as among
+          thieves); "they don't speak our lingo" [syn: {cant}, {slang},
+           {lingo}, {argot}, {patois}, {vernacular}]
+     2: a colorless (or pale yellow or smoky) variety of zircon
+        [syn: {jargoon}]
+     3: specialized technical terminology characteristic of a
+        particular subject
+
+ 
+ 
+
+slang
+     n 1: informal language consisting of words and expressions that
+          are not considered appropriate for formal occasions;
+          often vituperative or vulgar; "their speech was full of
+          slang expressions"
+     2: a characteristic language of a particular group (as among
+        thieves); "they don't speak our lingo" [syn: {cant}, {jargon},
+         {lingo}, {argot}, {patois}, {vernacular}]
+
+slang
+ Verb
+ 1: use slang or vulgar language
+     2: fool or hoax; "The immigrant was duped because he trusted
+        everyone"; "You can't fool me!" [syn: {gull}, {dupe}, {befool},
+         {cod}, {fool}, {put on}, {take in}, {put one over}, {put
+        one across}]
+     3: abuse with coarse language
+
+ 
+ 
+
+ethos
+     n : (anthropology) the distinctive spirit of a culture or an
+         era; "the Greek ethos"
+
+ 
+ 
+
+Logos
+     n : the divine word of God; the second person in the Trinity
+         (incarnate in Jesus) [syn: {Son}, {Word}]
+
+ 
+ 
+
+pathos
+     n 1: a quality that arouses emotions (especially pity or sorrow);
+          "the film captured all the pathos of their situation"
+          [syn: {poignancy}]
+     2: a feeling of sympathy and sorrow for the misfortunes of
+        others; "the blind are too often objects of pity" [syn: {commiseration},
+         {pity}, {ruth}]
+     3: a style that has the power to evoke feelings
+
+ 
+ 
+
+logical
+ Adjective
+ 1: capable of or reflecting the capability for correct and
+            valid reasoning; "a logical mind" [ant: {illogical}]
+     2: in accordance with reason or logic; "a logical conclusion"
+        [syn: {legitimate}]
+     3: marked by an orderly, logical, and aesthetically consistent
+        relation of parts; "a logical argument"; "the orderly
+        presentation" [syn: {consistent}, {ordered}, {orderly}]
+     4: based on known statements or events or conditions; "rain was
+        a logical expectation, given the time of year"
+     5: capable of thinking and expressing yourself in a clear and
+        consistent manner; "a lucid thinker"; "she was more
+        coherent than she had been just after the accident" [syn:
+        {coherent}, {lucid}]
+
+ 
+ 
+
+fallacy
+     n : a misconception resulting from incorrect reasoning [syn: {false
+         belief}]
+
+ 
+ 
+
+parody
+     n 1: a composition that imitates somebody's style in a humorous
+          way [syn: {lampoon}, {spoof}, {sendup}, {mockery}, {takeoff},
+           {burlesque}, {travesty}, {charade}, {pasquinade}, {put-on}]
+     2: humorous or satirical mimicry [syn: {mockery}, {takeoff}]
+ Verb
+ 1: make a spoof of or make fun of
+     2: make a parody of; "The students spoofed the teachers" [syn:
+        {spoof}, {burlesque}]
+     [also: {parodied}]
+
+ 
+ 
+
+persona
+     n 1: an actor's portrayal of someone in a play; "she played the
+          part of Desdemona" [syn: {character}, {role}, {theatrical
+          role}, {part}]
+     2: (Jungian psychology) a personal facade that one presents to
+        the world; "a public image is as fragile as Humpty Dumpty"
+        [syn: {image}]
+     [also: {personae} (pl)]
+
+ 
+ 
+
+pun
+     n : a humorous play on words; "I do it for the pun of it"; "his
+         constant punning irritated her" [syn: {punning}, {wordplay},
+          {paronomasia}]
+     [also: {punning}, {punned}]
+
+pun
+ Verb
+ : make a play on words; "Japanese like to pun--their language
+         is well suited to punning"
+     [also: {punning}, {punned}]
+
+ 
+ 
+
+sarcasm
+     n : witty language used to convey insults or scorn; "he used
+         sarcasm to upset his opponent"; "irony is wasted on the
+         stupid"; "Satire is a sort of glass, wherein beholders do
+         generally discover everybody's face but their
+         own"--Johathan Swift [syn: {irony}, {satire}, {caustic
+         remark}]
+
+ 
+ 
+
+sardonic
+ Adjective
+ : disdainfully or ironically humorous; scornful and mocking;
+           "his rebellion is the bitter, sardonic laughter of all
+           great satirists"- Frank Schoenberner; "a wry pleasure
+           to be...reminded of all that one is missing"- Irwin
+           Edman [syn: {wry}]
+
+ 
+ 
+
+satire
+     n : witty language used to convey insults or scorn; "he used
+         sarcasm to upset his opponent"; "irony is wasted on the
+         stupid"; "Satire is a sort of glass, wherein beholders do
+         generally discover everybody's face but their
+         own"--Johathan Swift [syn: {sarcasm}, {irony}, {caustic
+         remark}]
+
+ 
+ 
+
+syllogism
+     n : deductive reasoning in which a conclusion is derived from
+         two premises
+
+ 
+ 
+
+wit
+     n 1: a message whose ingenuity or verbal skill or incongruity has
+          the power to evoke laughter [syn: {humor}, {humour}, {witticism},
+           {wittiness}]
+     2: mental ability; "he's got plenty of brains but no common
+        sense" [syn: {brain}, {brainpower}, {learning ability}, {mental
+        capacity}, {mentality}]
+     3: a witty amusing person who makes jokes [syn: {wag}, {card}]
+
+ 
+ 
+
+inductive
+ Adjective
+ 1: relating to logical induction; "inductive thinking"
+     2: arising from inductance; "inductive reactance"
+     3: of reasoning; proceeding from particular facts to a general
+        conclusion; "inductive reasoning" [ant: {deductive}]
+     4: inducing or influencing; leading on; "inductive to the sin
+        of Eve"- John Milton [syn: {inducive}]
+
+ 
+ 
+
+deductive
+ Adjective
+ 1: relating to logical deduction; "deductive reasoning"
+     2: involving inferences from general principles [ant: {inductive}]
+
+ 
+ 
+
+stereotype
+     n : a conventional or formulaic conception or image; "regional
+         stereotypes have been part of America since its founding"
+ Verb
+ : treat or classify according to a mental stereotype; "I was
+         stereotyped as a lazy Southern European" [syn: {pigeonhole},
+          {stamp}]
+
+ 
+ 
+
+anaphora
+     n 1: using a pronoun or other pro-word instead of repeating a
+          word
+     2: repetition of a word or phrase as the beginning of
+        successive clauses [syn: {epanaphora}]
+
+ 
+ 
+
+antithesis
+     n 1: exact opposite; "his theory is the antithesis of mine"
+     2: the juxtaposition of contrasting words or ideas to give a
+        feeling of balance
+     [also: {antitheses} (pl)]
+
+ 
+ 
+
+asyndeta
+     See {asyndeton}
+
+-->WordNet
+-->asyndetic
+
+asyndetic
+ Adjective
+ : lacking conjunctions [ant: {syndetic}]
+
+ 
+ 
+
+chiasmus
+     n : inversion in the second of two parallel phrases
+     [also: {chiasmi} (pl)]
+
+ 
+ 
+
+epistrophe
+     n : repetition of the ends of two or more successive sentences,
+         verses, etc. [syn: {epiphora}]
+
+ 
+ 
+
+inversion
+     n 1: the layer of air near the earth is cooler than an overlying
+          layer
+     2: abnormal condition in which an organ is turned inward or
+        inside out (as when the upper part of the uterus is pulled
+        into the cervical canal after childbirth)
+     3: a chemical process in which the direction of optical
+        rotation of a substance is reversed from dextrorotatory to
+        levorotary or vice versa
+     4: (genetics) a kind of mutation in which the order of the
+        genes in a section of a chromosome is reversed
+     5: the reversal of the normal order of words [syn: {anastrophe}]
+     6: (counterpoint) a variation of a melody or part in which ll
+        ascending intervals are replaced by descending intervals
+        and vice versa
+     7: a term formerly used to mean taking on the gender role of
+        the opposite sex [syn: {sexual inversion}]
+     8: turning upside down; setting on end [syn: {upending}]
+     9: the act of turning inside out [syn: {eversion}, {everting}]
+
+ 
+ 
+
+juxtaposition
+     n 1: the act of positioning close together (or side by side); "it
+          is the result of the juxtaposition of contrasting
+          colors" [syn: {apposition}, {collocation}]
+     2: a side-by-side position
+
+ 
+ 
+
+polysyndeton
+     n : using several conjunctions in close succession, especially
+         where some might be omitted (as in `he ran and jumped and
+         laughed for joy')
+
+ 
+ 
+
+zeugma
+     n : use of a word to govern two or more words though appropriate
+         to only one; "`Mr. Pickwick took his hat and his leave'
+         is an example of zeugma"
+
+ 
+ 
+
+declarative
+ Adjective
+ 1: relating to the use of or having the nature of a declaration
+            [syn: {declaratory}, {asserting(a)}] [ant: {interrogative},
+             {interrogative}]
+     2: relating to the mood of verbs that is used simple
+        declarative statements; "indicative mood" [syn: {indicative}]
+
+declarative
+     n : a mood (grammatically unmarked) that represents the act or
+         state as an objective fact [syn: {indicative mood}, {indicative},
+          {declarative mood}, {common mood}, {fact mood}]
+
+ 
+ 
+
+imperative
+ Adjective
+ 1: requiring attention or action; "as nuclear weapons
+            proliferate, preventing war becomes imperative";
+            "requests that grew more and more imperative" [ant: {beseeching}]
+     2: relating to verbs in the imperative mood
+
+imperative
+     n 1: a mood that expresses an intention to influence the
+          listener's behavior [syn: {imperative mood}, {jussive
+          mood}]
+     2: some duty that is essential and urgent
+
+ 
+ 
+
+interrogative
+ Adjective
+ 1: relating to verbs in the so-called interrogative mood; "not
+            all questions have an interrogative construction"
+     2: relating to the use of or having the nature of an
+        interrogation [syn: {interrogatory}, {asking(a)}] [ant: {declarative},
+         {declarative}]
+
+interrogative
+     n 1: a sentence of inquiry that asks for a reply; "he asked a
+          direct question"; "he had trouble phrasing his
+          interrogations" [syn: {question}, {interrogation}, {interrogative
+          sentence}]
+     2: some linguists consider interrogative sentences to
+        constitute a mood [syn: {interrogative mood}]
+
+ 
+ 
+
+exclamatory
+ Adjective
+ : sudden and strong; "an emphatic no" [syn: {emphatic}]
+
+ 
+ 
+
+rhetorical question
+     n : a statement that is formulated as a question but that is not
+         supposed to be answered; "he liked to make his points
+         with rhetorical questions"
+
+ 
+ 
+
+simple
+ Adjective
+ 1: having few parts; not complex or complicated or involved; "a
+            simple problem"; "simple mechanisms"; "a simple
+            design"; "a simple substance" [ant: {complex}]
+     2: easy and not involved or complicated; "an elementary problem
+        in statistics"; "elementary, my dear Watson"; "a simple
+        game"; "found an uncomplicated solution to the problem"
+        [syn: {elementary}, {uncomplicated}, {unproblematic}]
+     3: apart from anything else; without additions or
+        modifications; "only the bare facts"; "shocked by the mere
+        idea"; "the simple passage of time was enough"; "the
+        simple truth" [syn: {bare(a)}, {mere(a)}, {simple(a)}]
+     4: exhibiting childlike simplicity and credulity; "childlike
+        trust"; "dewy-eyed innocence"; "simple courtesy" [syn: {childlike},
+         {wide-eyed}, {dewy-eyed}]
+     5: lacking mental capacity and devoid of subtlety [syn: {dim-witted},
+         {half-witted}, {simple-minded}]
+     6: (botany) of leaf shapes; of leaves having no divisions or
+        subdivisions [syn: {unsubdivided}] [ant: {compound}]
+     7: not elaborate in style; unornamented; "a simple country
+        schoolhouse"; "her black dress--simple to austerity"
+
+simple
+     n 1: any herbaceous plant having medicinal properties
+     2: a person lacking intelligence or common sense [syn: {simpleton}]
+
+ 
+ 
+
+compound
+ Adjective
+ 1: of leaf shapes; of leaves composed of several similar parts
+            or lobes [ant: {simple}]
+     2: consisting of two or more substances or ingredients or
+        elements or parts; "soap is a compound substance";
+        "housetop is a compound word"; "a blackberry is a compound
+        fruit"
+     3: composed of many distinct individuals united to form a whole
+        or colony; "coral is a colonial organism" [syn: {colonial}]
+
+compound
+ Verb
+ 1: make more intense, stronger, or more marked; "The efforts
+          were intensified", "Her rudeness intensified his dislike
+          for her"; "Potsmokers claim it heightens their
+          awareness"; "This event only deepened my convictions"
+          [syn: {intensify}, {heighten}, {deepen}]
+     2: put or add together; "combine resources" [syn: {combine}]
+     3: calculate principal and interest
+     4: create by mixing or combining
+     5: combine so as to form a whole; mix; "compound the
+        ingredients" [syn: {combine}]
+
+compound
+     n 1: (chemistry) a substance formed by chemical union of two or
+          more elements or ingredients in definite proportion by
+          weight [syn: {chemical compound}]
+     2: a whole formed by a union of two or more elements or parts
+     3: an enclosure of residences and other building (especially in
+        the Orient)
+
+ 
+ 
+
+complex
+     n 1: a conceptual whole made up of complicated and related parts;
+          "the complex of shopping malls, houses, and roads
+          created a new town" [syn: {composite}]
+     2: a compound described in terms of the central atom to which
+        other atoms are bound or coordinated [syn: {coordination
+        compound}]
+     3: (psychoanalysis) a combination of emotions and impulses that
+        have been rejected from awareness but still influence a
+        person's behavior
+     4: a whole structure (as a building) made up of interconnected
+        or related structures [syn: {building complex}]
+
+complex
+ Adjective
+ : complicated in structure; consisting of interconnected
+           parts; "a complex set of variations based on a simple
+           folk melody"; "a complex mass of diverse laws and
+           customs" [ant: {simple}]
+
+ 
+ 
+ 
+ 
+
+loose
+ Adjective
+ 1: not restrained or confined or attached; "a pocket full of
+            loose bills"; "knocked the ball loose"; "got loose
+            from his attacker"
+     2: not compact or dense in structure or arrangement; "loose
+        gravel" [ant: {compact}]
+     3: (of a ball in sport) not in the possession or control of any
+        player; "a loose ball"
+     4: not tight; not closely constrained or constricted or
+        constricting; "loose clothing"; "the large shoes were very
+        loose" [ant: {tight}]
+     5: not officially recognized or controlled; "an informal
+        agreement"; "a loose organization of the local farmers"
+        [syn: {informal}]
+     6: not literal; "a loose interpretation of what she had been
+        told"; "a free translation of the poem" [syn: {free}, {liberal}]
+     7: emptying easily or excessively; "loose bowels" [syn: {lax}]
+     8: not affixed; "the stamp came loose" [syn: {unaffixed}] [ant:
+         {affixed}]
+     9: not tense or taut; "the old man's skin hung loose and gray";
+        "slack and wrinkled skin"; "slack sails"; "a slack rope"
+        [syn: {slack}]
+     10: (of textures) full of small openings or gaps; "an open
+         texture"; "a loose weave" [syn: {open}]
+     11: not fixed firmly or tightly; "the bolts became loose over
+         time"; "a loose chair leg"; "loose bricks"
+     12: lacking a sense of restraint or responsibility; "idle talk";
+         "a loose tongue" [syn: {idle}]
+     13: not carefully arranged in a package; "a box of loose nails"
+     14: freely producing mucus; "a loose phlegmy cough"
+     15: having escaped, especially from confinement; "a convict
+         still at large"; "searching for two escaped prisoners";
+         "dogs loose on the streets"; "criminals on the loose in
+         the neighborhood" [syn: {at large(p)}, {at liberty(p)}, {escaped},
+          {on the loose(p)}]
+     16: casual and unrestrained in sexual behavior; "her easy
+         virtue"; "he was told to avoid loose (or light) women";
+         "wanton behavior" [syn: {easy}, {light}, {promiscuous}, {sluttish},
+          {wanton}]
+     17: not bound or fastened or gathered together; "loose pages";
+         "loose papers"
+
+loose
+ Adverb
+ : without restraint; "cows in India are running loose" [syn: {free}]
+
+loose
+ Verb
+ 1: grant freedom to; free from confinement [syn: {free}, {liberate},
+           {release}, {unloose}, {unloosen}] [ant: {confine}]
+     2: turn loose or free from restraint; "let loose mines"; "Loose
+        terrible plagues upon humanity" [syn: {unleash}, {let
+        loose}]
+     3: make loose or looser; "loosen the tension on a rope" [syn: {loosen}]
+        [ant: {stiffen}]
+     4: become loose or looser or less tight; "The noose loosened";
+        "the rope relaxed" [syn: {loosen}, {relax}] [ant: {stiffen}]
+
+ 
+ 
+
+periodic
+ Adjective
+ 1: happening or recurring at regular intervals [syn: {periodical}]
+            [ant: {aperiodic}]
+     2: recurring at regular intervals
+     3: recurring or reappearing from time to time; "periodic
+        feelings of anxiety"
+
+ 
+ 
+
+balanced
+ Adjective
+ 1: being in a state of proper balance or equilibrium; "the
+            carefully balanced seesaw"; "a properly balanced
+            symphony orchestra"; "a balanced assessment of
+            intellectual and cultural history"; "a balanced blend
+            of whiskeys"; "the educated man shows a balanced
+            development of all his powers" [ant: {unbalanced}]
+     2: total debits and credits are equal; "the books looked
+        balanced"
+
+ 
+ 
+
+cumulative
+ Adjective
+ : increasing by successive addition; "the benefits are
+           cumulative"; "the eventual accumulative effect of these
+           substances" [syn: {accumulative}]
+
+ 
+ 
+
+hortative
+ Adjective
+ : giving strong encouragement [syn: {exhortative}, {exhortatory},
+            {hortatory}]
+
+ 
+ 
+
+didactic
+ Adjective
+ : instructive (especially excessively) [syn: {didactical}]
+
+ 
+ 
+
+pedantic
+ Adjective
+ : marked by a narrow focus on or display of learning
+           especially its trivial aspects [syn: {academic}, {donnish}]
+
+ 
+ 
+
+description
+     n 1: a statement that represents something in words [syn: {verbal
+          description}]
+     2: the act of describing something
+     3: sort or variety; "every description of book was there"
+
+ 
+ 
+
+expository
+ Adjective
+ : serving to expound or set fourth; "clean expository writing"
+           [syn: {expositive}]
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+example
+     n 1: an item of information that is representative of a type;
+          "this patient provides a typical example of the
+          syndrome"; "there is an example on page 10" [syn: {illustration},
+           {instance}, {representative}]
+     2: a representative form or pattern; "I profited from his
+        example" [syn: {model}]
+     3: something to be imitated; "an exemplar of success"; "a model
+        of clarity"; "he is the very model of a modern major
+        general" [syn: {exemplar}, {model}, {good example}]
+     4: punishment intended as a warning to others; "they decided to
+        make an example of him" [syn: {deterrent example}, {lesson},
+         {object lesson}]
+     5: an occurrence of something; "it was a case of bad judgment";
+        "another instance occurred yesterday"; "but there is
+        always the famous example of the Smiths" [syn: {case}, {instance}]
+     6: a task performed or problem solved in order to develop skill
+        or understanding; "you must work the examples at the end
+        of each chapter in the textbook" [syn: {exercise}]
+
+ 
+ 
+
+analogy
+     n 1: an inference that if things agree in some respects they
+          probably agree in others
+     2: drawing a comparison in order to show a similarity in some
+        respect; "the operation of a computer presents and
+        interesting analogy to the working of the brain"; "the
+        models show by analogy how matter is built up"
+     3: the religious belief that between creature and creator no
+        similarity can be found so great but that the
+        dissimilarity is always greater; language can point in the
+        right direction but any analogy between God and humans
+        will always be inadequate [syn: {doctrine of analogy}]
+        [ant: {apophatism}, {cataphatism}]
+
+ 
+ 
+
+definition
+     n 1: a concise explanation of the meaning of a word or phrase or
+          symbol
+     2: clarity of outline; "exercise had give his muscles superior
+        definition"
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+rhetoric
+     n 1: using language effectively to please or persuade
+     2: high flown style; excessive use of verbal ornamentation
+        [syn: {grandiosity}, {magniloquence}, {grandiloquence}]
+     3: loud and confused and empty talk; "mere rhetoric" [syn: {palaver},
+         {hot air}, {empty words}, {empty talk}]
+     4: study of the technique and rules for using language
+        effectively (especially in public speaking)
+
+ 
+ 
+
+tone
+     n 1: the quality of a person's voice; "he began in a
+          conversational tone"; "he spoke in a nervous tone of
+          voice" [syn: {tone of voice}]
+     2: (linguistics) a pitch or change in pitch of the voice that
+        serves to distinguish words in tonal languages; "the
+        Beijing dialect uses four tones"
+     3: (music) the distinctive property of a complex sound (a voice
+        or noise or musical sound); "the timbre of her soprano was
+        rich and lovely"; "the muffled tones of the broken bell
+        summoned them to meet" [syn: {timbre}, {timber}, {quality}]
+     4: the general atmosphere of a place or situation and the
+        effect that it has on people; "the feel of the city
+        excited him"; "a clergyman improved the tone of the
+        meeting"; "it had the smell of treason" [syn: {spirit}, {feel},
+         {feeling}, {flavor}, {flavour}, {look}, {smell}]
+     5: a quality of a given color that differs slightly from a
+        primary color; "after several trials he mixed the shade of
+        pink that she wanted" [syn: {shade}, {tint}, {tincture}]
+     6: a notation representing the pitch and duration of a musical
+        sound; "the singer held the note too long" [syn: {note}, {musical
+        note}]
+     7: a steady sound without overtones; "they tested his hearing
+        with pure tones of different frequencies" [syn: {pure tone}]
+     8: the elastic tension of living muscles, arteries, etc. that
+        facilitate response to stimuli; "the doctor tested my
+        tonicity" [syn: {tonicity}, {tonus}] [ant: {atonicity}]
+     9: a musical interval of two semitones [syn: {whole tone}, {step},
+         {whole step}]
+     10: the quality of something (an act or a piece of writing) that
+         reveals the attitudes and presuppositions of the author;
+         "the general tone of articles appearing in the newspapers
+         is that the government should withdraw"; "from the tone
+         of her behavior I gathered that I had outstayed my
+         welcome"
+
+tone
+ Verb
+ 1: utter monotonously and repetitively and rhythmically; "The
+          students chanted the same slogan over and over again"
+          [syn: {chant}, {intone}]
+     2: of one's speech, varying the pitch [syn: {inflect}, {modulate}]
+     3: change the color or tone of; "tone a negative"
+     4: change to a color image; "tone a photographic image"
+     5: give a healthy elasticity to; "Let's tone our muscles" [syn:
+         {tone up}, {strengthen}]
+
+ 
+ 
+
+mood
+     n 1: a characteristic (habitual or relatively temporary) state of
+          feeling; "whether he praised or cursed me depended on
+          his temper at the time"; "he was in a bad humor" [syn: {temper},
+           {humor}, {humour}]
+     2: the prevailing psychological state; "the climate of
+        opinion"; "the national mood had changed radically since
+        the last election" [syn: {climate}]
+     3: verb inflections that express how the action or state is
+        conceived by the speaker [syn: {mode}, {modality}]
+
+ 
+ 
+
+attitude
+     n 1: a complex mental state involving beliefs and feelings and
+          values and dispositions to act in certain ways; "he had
+          the attitude that work was fun" [syn: {mental attitude}]
+     2: position or arrangement of the body and its limbs; "he
+        assumed an attitude of surrender" [syn: {position}, {posture}]
+     3: a theatrical pose created for effect; "the actor struck just
+        the right attitude"
+     4: position of aircraft or spacecraft relative to a frame of
+        reference (the horizon or direction of motion)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+voice
+     n 1: the distinctive quality or pitch or condition of a person's
+          speech; "A shrill voice sounded behind us"
+     2: the sound made by the vibration of vocal folds modified by
+        the resonance of the vocal tract; "a singer takes good
+        care of his voice"; "the giraffe cannot make any
+        vocalizations" [syn: {vocalization}, {vocalisation}, {phonation},
+         {vox}]
+     3: a sound suggestive of a vocal utterance; "the noisy voice of
+        the waterfall"; "the incessant voices of the artillery"
+     4: expressing in coherent verbal form; "the articulation of my
+        feelings"; "I gave voice to my feelings" [syn: {articulation}]
+     5: a means or agency by which something is expressed or
+        communicated; "the voice of the law"; "the Times is not
+        the voice of New York"; "conservatism has many voices"
+     6: something suggestive of speech in being a medium of
+        expression; "the wee small voice of conscience"; "the
+        voice of experience"; "he said his voices told him to do
+        it"
+     7: (metonymy) a singer; "he wanted to hear trained voices sing
+        it"
+     8: an advocate who represents someone else's policy or purpose;
+        "the meeting was attended by spokespersons for all the
+        major organs of government" [syn: {spokesperson}, {interpreter},
+         {representative}]
+     9: the ability to speak; "he lost his voice"
+     10: (linguistics) the grammatical relation (active or passive)
+         of the grammatical subject of a verb to the action that
+         the verb denotes
+     11: the melody carried by a particular voice or instrument in
+         polyphonic music; "he tried to sing the tenor part" [syn:
+          {part}]
+
+voice
+ Verb
+ 1: give voice to; "He voiced his concern"
+     2: utter with vibrating vocal chords [syn: {sound}, {vocalize},
+         {vocalise}] [ant: {devoice}]
+
+ 
+ 
+
+speaker
+     n 1: someone who expresses in language; someone who talks
+          (especially someone who delivers a public speech or
+          someone especially garrulous); "the speaker at
+          commencement"; "an utterer of useful maxims" [syn: {talker},
+           {utterer}, {verbalizer}, {verbaliser}]
+     2: electro-acoustic transducer that converts electrical signals
+        into sounds loud enough to be heard at a distance [syn: {loudspeaker},
+         {speaker unit}, {loudspeaker system}, {speaker system}]
+     3: the presiding officer of a deliberative assembly; "the
+        leader of the majority party is the Speaker of the House
+        of Representatives"
+
+ 
+ 
+ 
+ 
+
+anecdote
+     n : short account of an incident (especially a biographical one)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+red herring
+     n 1: any diversion intended to distract attention from the main
+          issue
+     2: a dried and smoked herring having a reddish color [syn: {smoked
+        herring}]
+     3: a first draft of a prospectus; must be clearly marked to
+        indicate that parts may be changed in the final
+        prospectus; "because some portions of the cover page are
+        printed in red ink a preliminary prospectus is sometimes
+        called a red herring" [syn: {preliminary prospectus}]
+
+-->WordNet
+-->referring
+
+refer
+ Verb
+ 1: make reference to; "His name was mentioned in connection
+          with the invention" [syn: {mention}, {advert}, {bring up},
+           {cite}, {name}]
+     2: have to do with or be relevant to; "There were lots of
+        questions referring to her talk"; "My remark pertained to
+        your earlier comments" [syn: {pertain}, {relate}, {concern},
+         {come to}, {bear on}, {touch}, {touch on}]
+     3: think of, regard, or classify under a subsuming principle or
+        with a general group or in relation to another; "This
+        plant can be referred to a known species"
+     4: send or direct for treatment, information, or a decision;
+        "refer a patient to a specialist"; "refer a bill to a
+        committee"
+     5: seek information from; "You should consult the dictionary";
+        "refer to your notes" [syn: {consult}, {look up}]
+     6: have as a meaning; "`multi-' denotes `many' " [syn: {denote}]
+     [also: {referring}, {referred}]
+
+referring
+     See {refer}
+
+-->WordNet
+-->rehearing
+
+rehearing
+     n : the act of hearing again [syn: {relistening}]
+
+ 
+ 
+
+ad hominem
+ Adjective
+ : appealing to personal considerations (rather than to fact or
+           reason); "ad hominem arguments"
+
+ 
+ 
+ 
+ 
+
+allegory
+     n 1: a short moral story (often with animal characters) [syn: {fable},
+           {parable}, {apologue}]
+     2: a visible symbol representing an abstract idea [syn: {emblem}]
+     3: an expressive style that uses fictional characters and
+        events to describe some subject by suggestive
+        resemblances; an extended metaphor
+
+ 
+ 
+
+alliteration
+     n : use of the same consonant at the beginning of each stressed
+         syllable in a line of verse; "around the rock the ragged
+         rascal ran" [syn: {initial rhyme}, {beginning rhyme}, {head
+         rhyme}]
+
+ 
+ 
+
+assonance
+     n : the repetition of similar vowels in the stressed syllables
+         of successive words [syn: {vowel rhyme}]
+
+ 
+ 
+
+allusion
+     n : passing reference or indirect mention
+
+ 
+ 
+
+analogy
+     n 1: an inference that if things agree in some respects they
+          probably agree in others
+     2: drawing a comparison in order to show a similarity in some
+        respect; "the operation of a computer presents and
+        interesting analogy to the working of the brain"; "the
+        models show by analogy how matter is built up"
+     3: the religious belief that between creature and creator no
+        similarity can be found so great but that the
+        dissimilarity is always greater; language can point in the
+        right direction but any analogy between God and humans
+        will always be inadequate [syn: {doctrine of analogy}]
+        [ant: {apophatism}, {cataphatism}]
+
+ 
+ 
+
+cacophony
+     n 1: a loud harsh or strident noise [syn: {blare}, {blaring}, {clamor},
+           {din}]
+     2: loud confusing disagreeable sounds
+
+ 
+ 
+
+euphony
+     n : any agreeable (pleasing and harmonious) sounds; "he fell
+         asleep to the music of the wind chimes" [syn: {music}]
+
+ 
+ 
+
+cliche
+     n : a trite or obvious remark [syn: {platitude}, {banality}, {commonplace},
+          {bromide}]
+
+ 
+ 
+
+consonance
+     n 1: the repetition of consonants (or consonant patterns)
+          especially at the ends of words [syn: {consonant rhyme}]
+     2: the property of sounding harmonious [syn: {harmoniousness}]
+
+ 
+ 
+
+overstatement
+     n : making to seem more important than it really is [syn: {exaggeration},
+          {magnification}] [ant: {understatement}]
+
+ 
+ 
+
+strawman
+     n 1: a person used as a cover for some questionable activity
+          [syn: {front man}, {front}, {figurehead}, {nominal head},
+           {straw man}]
+     2: a weak or sham argument set up to be easily refuted [syn: {straw
+        man}]
+     3: an effigy in the shape of a man to frighten birds away from
+        seeds [syn: {scarecrow}, {straw man}, {bird-scarer}, {scarer}]
+
+ 
+ 
+
+either
+ Adverb
+ : after a negative statement used as an intensive meaning
+           something like `likewise' or `also'; "he isn't stupid,
+           but he isn't exactly a genius either"; "I don't know
+           either"; "if you don't order dessert I won't either"
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+idiom
+     n 1: a manner of speaking that is natural to native speakers of a
+          language [syn: {parlance}]
+     2: the usage or vocabulary that is characteristic of a specific
+        group of people; "the immigrants spoke an odd dialect of
+        English"; "he has a strong German accent" [syn: {dialect},
+         {accent}]
+     3: the style of a particular artist or school or movement; "an
+        imaginative orchestral idiom" [syn: {artistic style}]
+     4: an expression whose meanings cannot be inferred from the
+        meanings of the words that make it up [syn: {idiomatic
+        expression}, {phrasal idiom}, {set phrase}, {phrase}]
+
+ 
+ 
+
+imagery
+     n : the ability to form mental images of things or events; "he
+         could still hear her in his imagination" [syn: {imagination},
+          {imaging}, {mental imagery}]
+
+ 
+ 
+ 
+ 
+
+dramatic irony
+     n : (theater) irony that occurs when the meaning of the
+         situation is understood by the audience but not by the
+         characters in the play
+
+ 
+ 
+ 
+ 
+
+litotes
+     n : understatement for rhetorical effect (especially when
+         expressing an affirmative by negating its contrary);
+         "saying `I was not a little upset' when you mean `I was
+         very upset' is an example of litotes" [syn: {meiosis}]
+
+ 
+ 
+
+metaphor
+     n : a figure of speech in which an expression is used to refer
+         to something that it does not literally denote in order
+         to suggest a similarity
+
+ 
+ 
+
+metonymy
+     n : substituting the name of an attribute or feature for the
+         name of the thing itself (as in `they counted heads')
+
+ 
+ 
+
+onomatopoeia
+     n : using words that imitate the sound they denote
+
+ 
+ 
+
+oxymoron
+     n : conjoining contradictory terms (as in `deafening silence')
+     [also: {oxymora} (pl)]
+
+ 
+ 
+
+parable
+     n 1: a short moral story (often with animal characters) [syn: {fable},
+           {allegory}, {apologue}]
+     2: (New Testament) any of the stories told by Jesus to convey
+        his religious message; "the parable of the prodigal son"
+
+ 
+ 
+
+simile
+     n : a figure of speech that expresses a resemblance between
+         things of different kinds (usually formed with `like' or
+         `as')
+
+ 
+ 
+
+synecdoche
+     n : substituting a more inclusive term for a less inclusive one
+         or vice versa
+
+ 
+ 
+
+understatement
+     n : a statement that is restrained in ironic contrast to what
+         might have been said [ant: {exaggeration}]
+
+ 
+ 
+
+paradox
+     n : (logic) a self-contradiction; "`I always lie' is a paradox
+         because if it is true it must be false"
+
+ 
+ 
+
+personification
+     n 1: a person who represents an abstract quality; "she is the
+          personification of optimism"
+     2: representing an abstract quality or idea as a person or
+        creature [syn: {prosopopoeia}]
+     3: the act of attributing human characteristics to abstract
+        ideas etc. [syn: {incarnation}]
+
